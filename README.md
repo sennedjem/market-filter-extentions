@@ -1,6 +1,3 @@
-# market-filter-extentions
-Extensiones para el mercado de la webapp de fifa
-
 # Aclaraciones
 
 Los filtros agregados en la extensión modifican los request que usa normalmente la webapp, usenlo bajo su propia responsabilidad
