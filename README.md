@@ -1,3 +1,10 @@
+# Table of Contents
+* [Aclaraciones](#aclaraciones)
+* [Proyecto base](#proyecto-base)
+* [Page jumper](#page-jumper)
+* [Filtrar por un jugador especifico](#filtrar-por-un-jugador-especifico)
+
+
 # Aclaraciones
 
 Los filtros agregados en la extensión modifican los request que usa normalmente la webapp, usenlo bajo su propia responsabilidad
@@ -16,7 +23,7 @@ Esta extension toma como base el proyecto [Fifa21-PageJumper](https://github.com
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# Filrar por un jugador especifico
+# Filtrar por un jugador especifico
 
 Esta feature permite por ejemplo en el caso que un jugador tenga mas de una carta in form poder filtrar por una carta especifica, en el *[video](https://www.youtube.com/watch?v=UDXVF4zcIAc)*. de abajo se ve un ejemplo con kimmich.
 
